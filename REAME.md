@@ -10,6 +10,7 @@
 ## Index
 
 - How to Start Project with git
+- Installation
 
 ### How to Start Project with git
 
@@ -26,4 +27,7 @@ $ git branch -M main
 $ git push -u origin main
 ```
 
+### Installation
+
+You don't need any pakages for this project.
 
